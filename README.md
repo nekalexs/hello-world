@@ -1,5 +1,5 @@
 # hello-world
 Test
 Hello
-my name Alex
-i  man 
+my name Alex!
+I  man i
